@@ -9,7 +9,7 @@ name = 'upload-large-dataframes-tera',         # How you named your package fold
   author = 'Peleg Wurzel',                   # Type in your name
   author_email = 'Peleg525@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/peleg525/upload-large-dataframes-tera.git',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/peleg525/upload-large-dataframes-tera/archive/refs/tags/V_02.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/peleg525/upload-large-dataframes-tera/archive/refs/tags/V_01.tar.gz',    # I explain this later on
   keywords = ['teradata'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'pandas',
